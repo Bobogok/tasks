@@ -7,5 +7,5 @@ for (let i = 2; i < n; i++) {
             continue firstCycle;
         }
     }
-    alert(i)
+    console.log(i)
 }
